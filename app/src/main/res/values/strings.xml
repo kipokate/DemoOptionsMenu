@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DemoOptionsMenu</string>
+    <string name="app_item_copy">複製</string>
+    <string name="app_item_paste">貼上</string>
+    <string name="app_item_about">關於</string>
+    <string name="app_item_exit">離開</string>
+
+</resources>
